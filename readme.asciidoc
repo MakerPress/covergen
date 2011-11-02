@@ -5,9 +5,7 @@ The cover generator is a tool for putting various elements (title, sub-title, et
 * It should use javascript, processing.js or something similar
 * It accepts a JSON object that provides default values for the elements.  Here's the a sample:
 
-----
-include::https://raw.github.com/MakerPress/covergen/master/covergen_hotspots.js[]
-----
+https://github.com/MakerPress/covergen/blob/master/covergen_hotspots.js
 	
 == The UI
 
