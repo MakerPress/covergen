@@ -1,4 +1,5 @@
-{[
+{
+[
    "imprint" : "Maker Press"
    "cover-template": "http://admin.makerpress.com/covergen/makerpress_template.png",
    "width" : 400,
@@ -6,7 +7,7 @@
    "hotspots": [
       {
          "element" : "callout-box",
-	     "text":  "Callout box"
+         "text":  "Callout box"
          "x" : 280,
          "y" : 50,
          "font-size": 20,
@@ -15,7 +16,7 @@
       },
       {
          "element" : "main-title",
-	     "text": "Title"
+         "text": "Title"
          "x" : 50,
          "y" : 100,
          "font-size": 96,
@@ -24,7 +25,7 @@
       },
       {
          "element" : "sub-title",
-	     "text": "Sub Title",
+         "text": "Sub Title",
          "x" : 50,
          "y" : 160,
          "font-size": 72,
@@ -33,7 +34,32 @@
       },
       {
          "element" : "author-list",
-	     "text":  "Author list"
+         "text":  "Author list"
+         "x" : 50,
+         "y" : 220,
+         "font-size": 24,
+         "font-color" : "#ffffff",
+         "font-name": "SansSerif-48"
+      }
+],
+[
+   "imprint" : "Strata Press"
+   "cover-template": "http://admin.makerpress.com/covergen/makerpress_template.png",
+   "width" : 600,
+   "height" : 600,
+   "hotspots": [
+      {
+         "element" : "main-title",
+         "text": "Title"
+         "x" : 50,
+         "y" : 100,
+         "font-size": 96,
+         "font-color" : "#ffffff",
+         "font-name": "SansSerif-48"
+      },
+      {
+         "element" : "authors",
+         "text":  "Author list"
          "x" : 50,
          "y" : 220,
          "font-size": 24,
@@ -41,4 +67,5 @@
          "font-name": "SansSerif-48"
       }
    ]
+]
 ]}
